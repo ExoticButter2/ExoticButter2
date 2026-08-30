@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 I'm a 15 year old hobbyist programmer and I love making games and doing embedded programming.
 
 Nationality: 🇧🇬
+
 Live in: 🇩🇪
 
 ## Where to contact me?
