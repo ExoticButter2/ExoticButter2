@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 # Hey, I'm Max!
 I'm a 15 year old hobbyist programmer and I love making games and embedded programming.
 
-## Roblox Commissions
-I am currently looking for Roblox commissions as I haven't had many (one combat system commission). I can do small as well as medium robux commissions in the price range of 800-3k R$ really depending on the scale of the commission.
-
 ## Where to contact me?
 
 - [Roblox](https://www.roblox.com/users/955328316/profile)
 - E-Mail: sashomax4@gmail.com
 - Discord: @exoticbutter3
+
+## Roblox Commissions
+I am currently looking for Roblox commissions as I haven't had many (one combat system commission). I can do small as well as medium robux commissions in the price range of 800-3k R$ really depending on the scale of the commission.
 
 ## Skills
 - Languages
