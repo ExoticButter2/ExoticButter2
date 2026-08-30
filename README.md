@@ -52,7 +52,7 @@ I am currently looking for Roblox commissions as I haven't had many (one combat 
   - Unity
     - Automation
     - Inventory systems
-    - Networking with Fishnet
+    - Networking with FishNet
 
 - Embedded Systems
   - Register programming (ATMega328P)
