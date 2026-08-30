@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hey, I'm Max!
-I'm a 15 year old hobbyist programmer and I love making games and embedded programming.
+I'm a 15 year old bulgarian (live in Germany) hobbyist programmer and I love making games and doing embedded programming.
 
 ## Where to contact me?
 
@@ -31,6 +31,11 @@ I am currently looking for Roblox commissions as I haven't had many (one combat 
 
 ## Skills
 - Languages
+  - fluent English
+  - fluent Bulgarian
+  - German
+
+- Programming Languages
   - Intermediate Luau
   - Intermediate C#
   - Beginner C
