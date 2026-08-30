@@ -19,7 +19,7 @@ I am also currently looking for Roblox commissions as I haven't had many (one co
 
 # Where to contact me?
 
-- Roblox: @sashomax2
+- [Roblox](@sashomax2)
 - E-Mail: sashomax4@gmail.com
 - Discord: @exoticbutter3
 
@@ -57,5 +57,6 @@ After the game jam I fully transitioned to Unity in which I had to learn C# sinc
 There I made tons of projects, though unfinished, let me try and learn a ton of design patterns and concepts. Later on I also made some projects using Fishnet which made me learn Networking on a deeper level than Roblox.
 
 This year I also started making embedded systems projects (and Linux programming with a raspberry pi) meaning I had to learn C (and cpp but they're near identical on the fundamental level). Register programming also made me learn a lot about memory management, fetch/decode/execute loops and reading datasheets and documentation.
+
 
 I'll be looking forward to seeing you!
