@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hey, I'm Max!
-I'm a 15 year old bulgarian (live in Germany) hobbyist programmer and I love making games and doing embedded programming.
+I'm a 15 year old hobbyist programmer and I love making games and doing embedded programming.
+
+Nationality: 🇧🇬
+Live in: 🇩🇪
 
 ## Where to contact me?
 
