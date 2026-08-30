@@ -12,19 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey, I'm Max!
+# Hey, I'm Max!
 I'm a 15 year old hobbyist programmer and I love making games and embedded programming.
 
-# Roblox Commissions
+## Roblox Commissions
 I am currently looking for Roblox commissions as I haven't had many (one combat system commission). I can do small as well as medium robux commissions in the price range of 800-3k R$ really depending on the scale of the commission.
 
-# Where to contact me?
+## Where to contact me?
 
 - [Roblox](https://www.roblox.com/users/955328316/profile)
 - E-Mail: sashomax4@gmail.com
 - Discord: @exoticbutter3
 
-# Skills
+## Skills
 - Languages
   - Intermediate Luau
   - Intermediate C#
@@ -47,7 +47,7 @@ I am currently looking for Roblox commissions as I haven't had many (one combat 
 
 - Linux/Raspbian (Pi Zero W)
 
-# "Quick" Timeline
+## "Quick" Timeline
 In early 2024 I started learning basic programming in Roblox Studio. I watched some tutorials and got the hang of it after making some funny programs I showed to my friends.
 
 After that (~mid-late 2024) I made my first game heist RNG with my friend, in which I learned state machines in a way without meaning to and learned game state.
