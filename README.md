@@ -20,6 +20,7 @@ Nationality: 🇧🇬
 Live in: 🇩🇪
 
 Experience in Gamedev: ~1.5 years
+
 Experience in Embedded Systems: 2 months
 
 ## Where to contact me?
