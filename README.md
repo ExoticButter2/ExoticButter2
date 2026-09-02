@@ -29,7 +29,8 @@ Live in: 🇩🇪
 I am currently looking for Roblox commissions as I haven't had many (one combat system commission). I can do small as well as medium robux commissions in the price range of 800-3k R$ really depending on the scale of the commission.
 
 ## Finished Projects
-- [My Roblox khaby lame chasing game (on an alt)](https://www.roblox.com/games/134006256611606/Get-chased-by-Khaby-Lame-Mechanism)
+- [My Roblox khaby lame chasing game (on my alt)](https://www.roblox.com/games/134006256611606/Get-chased-by-Khaby-Lame-Mechanism)
+- [My Roblox RoDevs Game jam game about construction (also on my alt)](https://www.roblox.com/games/96044248871030/untitled-building-game)
 - [3D Heat Conduction Simulation in Unity](https://exoticbutter2.itch.io/physics-heat-conduction-simulation) (Saved as GitHub repo on profile too)
 - Toggleable cloud/local Pi Zero W chat box using Gemini/Ollama (GitHub repo on profile)
 
