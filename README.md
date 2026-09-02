@@ -56,7 +56,7 @@ I am currently looking for Roblox commissions as I haven't had many (one combat 
     - Lobby systems
     - Combat systems
   - Unity
-    - Automation
+    - Automation (NPC Behavior)
     - Inventory systems
     - Networking with FishNet
 
